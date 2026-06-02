@@ -1,43 +1,7 @@
 import random
 
 
-# =========================================================
-# AI LAB PROJECT : MULTI-HALL EXAM SEATING SYSTEM
-# =========================================================
-#
-# CO1 Topics 
-# -------------------
-# - Agent Model (System behaves like a simple automated agent)
-# - Problem formulation
-# - State representation using grids
-# - Python functions
-# - Classes and Objects
-# - Lists, Dictionaries, Sets
-# - Complexity-aware coding
-# - Step-by-step reasoning
-# - Priority handling logic
-# - Testing small algorithm units
-#
-# CO2 Topics 
-# -------------------
-# - Search on graphs and state spaces
-# - Heuristic-based seat allocation
-# - Constraint-aware placement
-# - Closed/Open checking intuition
-# - Empirical reasoning
-# - Search optimization concepts
-# - Tie-breaking strategy
-#
-# CO3 Topics 
-# -------------------
-# - CSP (Constraint Satisfaction Problem)
-# - Backtracking intuition
-# - Constraint propagation intuition
-# - Forward checking idea
-# - MRV/LCV style reasoning intuition
-# - Scheduling / Timetabling concept
-# - Explainability of constraint failure
-# =========================================================
+
 
 import random
 
